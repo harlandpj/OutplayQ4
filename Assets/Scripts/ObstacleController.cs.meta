@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 538ab6a54a88d5945a168b8ad7d48d06
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - theAudio: {instanceID: 0}
+  - hitNoise: {fileID: 8300000, guid: 44d39438eb49bcc4d8d588fc4c9d6c2d, type: 3}
+  - gameOverNoise: {fileID: 8300000, guid: e62a659566b1cf24a824a2f34d1757c1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
